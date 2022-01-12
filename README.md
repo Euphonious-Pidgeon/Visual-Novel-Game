@@ -1,7 +1,7 @@
 # Visual-Novel-Game
 Testing the Ren'py engine to make a visual novel.
 
-# Note: some files were left out due to the GitHub size limit. See instructions below to launch the game or access the code.
+# Note: some files were left out due to the GitHub size limit. See instructions below on how to launch the game or access the code.
 
 # Launching the game:
 1. Go to https://www.renpy.org/ and download their engine. Once unzipped, it will return a folder.
