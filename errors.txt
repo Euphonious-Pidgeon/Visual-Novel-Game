@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 38: expected ':' not found.
+    menu "NOTICE: only the first option works, takes quite a while to come up with a story so the second choice leads to nowhere":
+         ^
+
+File "game/script.rpy", line 59: expected ':' not found.
+    menu "(only first choice works)":
+         ^
+
+File "game/script.rpy", line 80: expected ':' not found.
+    menu "(only first choice works)":
+         ^
+
+Ren'Py Version: Ren'Py 7.4.4.1439
+Wed Apr 28 17:10:13 2021
